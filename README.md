@@ -1,2 +1,2 @@
-# IS4310-ISOLATED-RS485-Schematic-Design-Exemple-ISXMPL4310ex2-
+# IS4310-ISOLATED-RS485-Schematic-Design-Exemple-ISXMPL4310ex2
 IS4310 ISOLATED RS485 Schematic Design Exemple (ISXMPL4310ex2)
